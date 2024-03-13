@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PolyDemo
 {
-    static internal class Class1:BaseClass
+    static internal class Class1:BaseClass and fasdfa
     {
     }
 }
